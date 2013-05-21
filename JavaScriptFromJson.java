@@ -246,6 +246,10 @@ class JavaScriptFromJson {
 	}
 
 	public static void main(String[] args) {
+		if(args.length != 1) {
+			System.err.println("usage:");
+			System.err.println("  java JavaScriptFromJson <json-file>");			
+		}
 		try {
 			String jsonFileContent = readFile(args[0], Charset.defaultCharset());
 			process(jsonFileContent);
