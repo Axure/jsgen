@@ -1,3 +1,7 @@
+/*
+ * Author: Amitabh Ojha, QuickrWorld.com
+ * Date Created: 2013-05-20
+ */
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.charset.Charset;
