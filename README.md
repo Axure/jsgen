@@ -33,7 +33,7 @@ http://src.chromium.org/chrome/trunk/src/chrome/common/extensions/api/
 
 **Example:**
 
-javac JavaScriptFromJson.java \<json-file\>
+javac JavaScriptFromJson.java
 
 (produces JavaScriptFromJson.class)
 
