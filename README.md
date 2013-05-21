@@ -10,7 +10,11 @@ java version "1.7.0\_21"
 
 **classpath:**
 
-gson-2.2.4.jar
+gson-2.2.4.jar:.
+
+or (on Windows)
+
+gson-2.2.4.jar;.
 
 **Usage:**
 
